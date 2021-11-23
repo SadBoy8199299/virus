@@ -1,5 +1,5 @@
 # virus
-git clone https://github.com/SadBoy8199299/virus
+git clone https://github.com/SadBoy8199299/trojans
 
 cd trojans
 
